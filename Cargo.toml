@@ -1,5 +1,6 @@
 [package]
 name = "function_from_equation"
+description = "Creates a function from a math equation"
 version = "0.1.0"
 edition = "2021"
 license = "LICENSE"
