@@ -1,5 +1,5 @@
 #![feature(proc_macro_quote)]
-use proc_macro::{quote, TokenStream};
+use proc_macro::TokenStream;
 
 /// Macro for creating functions from equations
 #[proc_macro]
